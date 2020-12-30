@@ -1,0 +1,445 @@
+{
+  "events": [
+    {
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 930624,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "dasdsa",
+      "description": "asdsa",
+      "location": "saddas",
+      "date": "2020-10-01T23:03:00.000Z",
+      "time": "3:00",
+      "attendees": []
+    },
+    {
+      "id": 531743,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "hLO",
+      "description": "bob",
+      "location": "asassa",
+      "date": "2020-10-03T23:10:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 930624,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "dasdsa",
+      "description": "asdsa",
+      "location": "saddas",
+      "date": "2020-10-01T23:03:00.000Z",
+      "time": "3:00",
+      "attendees": []
+    },
+    {
+      "id": 531743,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "hLO",
+      "description": "bob",
+      "location": "asassa",
+      "date": "2020-10-03T23:10:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 930624,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "dasdsa",
+      "description": "asdsa",
+      "location": "saddas",
+      "date": "2020-10-01T23:03:00.000Z",
+      "time": "3:00",
+      "attendees": []
+    },
+    {
+      "id": 531743,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "hLO",
+      "description": "bob",
+      "location": "asassa",
+      "date": "2020-10-03T23:10:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 108950,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 523315,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "assa",
+      "description": "qsasaas",
+      "location": "",
+      "date": "2020-10-01T21:34:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 682405,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "g",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 194026,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 122852,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 212021,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 675341,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 132344,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 195842,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 211558,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 617964,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}
